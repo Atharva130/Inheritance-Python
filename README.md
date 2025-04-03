@@ -13,7 +13,6 @@ Inheritance is an important concept in Object-Oriented Programming (OOP) that al
 ## Topics to Learn
 - Understanding the `super()` function  
 - Overriding methods in derived classes  
-- Implementing different types of inheritance  
-- Exploring method resolution order (MRO)  
+- Implementing different types of inheritance 
 - Handling multiple base classes  
 
